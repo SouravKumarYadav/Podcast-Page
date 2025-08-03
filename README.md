@@ -35,5 +35,5 @@
 This project was created as part of my learning journey in the NxtWave CCBP 4.0 Program.
 
 ## 📫 Connect with me  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/sourav-kumar-cs/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sourav-kumar-cs/)  
 [Connect with me on X](https://x.com/Sourav_Kumar_1)
